@@ -1,0 +1,23 @@
+{
+  "name": "zadanie-grunt",
+  "version": "1.0.0",
+  "description": "KOmpilacja sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustynaG/Zadanie-grunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustynaG/Zadanie-grunt/issues"
+  },
+  "homepage": "https://github.com/JustynaG/Zadanie-grunt#readme",
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
